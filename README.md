@@ -1,4 +1,8 @@
-![image](https://sukutechnologies.com/wp-content/uploads/2020/05/software-solution-banner.jpg)
+<!--  ![image](https://sukutechnologies.com/wp-content/uploads/2020/05/software-solution-banner.jpg) -->
+
+<img src="https://omegafragger.github.io/post/focal-loss/featured.jpg" alt="drawing" width="1080" height="300"/> 
+
+
 
 ## Hi there 👋, I'm Marcos Costa
 
@@ -27,6 +31,13 @@ _"Success in not final, failure is not fatal: It is the courage to continue that
 
 ![Marcos' GitHub stats](https://github-readme-stats.vercel.app/api?username=MCDF31&show_icons=true&theme=radical)
 
+- 🔭 I’m currently working on finding an position as a Software Engineer. Are you hiring?
+- 👯 I’m looking to collaborate on any tech start up idea related to software solutions. 
+- 🤔 I’m looking to get involved with the tech industry in Switzerland.
+- 💬 Ask me about anything! 
+
+- ⚡ Fun fact: Mount Everest (The highest mountain in the world) was first climbed in May 29, 1953. Weather forecast models at that time were probably unreliable and did not help in the ascent. 
+
 <!--
 **MCDF31/MCDF31** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -38,6 +49,5 @@ Here are some ideas to get you started:
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
 - 📫 How to reach me: ...
-- 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
