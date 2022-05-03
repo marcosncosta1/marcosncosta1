@@ -1,3 +1,5 @@
+![image](https://sukutechnologies.com/wp-content/uploads/2020/05/software-solution-banner.jpg)
+
 ## Hi there 👋, I'm Marcos Costa
 
 As a former professional alpinist I am used to performing under pressure and finding solutions the hard and complex challenges. I am currently an aspiring software engineer who is passionate about learning software solutions to solving real world problems. I strive to learn and improve daily building on what I have learned in the past. 
