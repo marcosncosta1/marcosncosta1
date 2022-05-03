@@ -12,6 +12,7 @@ _"Success in not final, failure is not fatal: It is the courage to continue that
   <a href="https://matplotlib.org/" target="_blank"> <img src="https://matplotlib.org/_static/images/documentation.png" alt="mssql" width="50" height="50"/> </a>
     <a href="https://www.tensorflow.org/" target="_blank"> <img src="https://www.gstatic.com/devrel-devsite/prod/vb4911e76f75cbf10455736b1097dbb3769b606e3b49cb0474e4669a8e63a54e6/tensorflow/images/lockup.svg" alt="xd" width="50" height="50"/> </a>
   <a href="https://jupyter.org/" target="_blank"> <img src="https://jupyter.org/assets/homepage/main-logo.svg" alt="xd" width="50" height="50"/> </a>
+  <a href="https://streamlit.io/" target="_blank"> <img src="https://docs.streamlit.io/logo.svg" alt="xd" width="50" height="50"/> </a>
   <a href="https://courses.nvidia.com/courses/course-v1:DLI+S-FX-01+V1/" target="_blank"> <img src="https://courses.nvidia.com/wp-content/themes/ibl-nvidia-wp-theme/inc/images/nvidia_logo.svg" alt="xd" width="50" height="50"/> </a>
   <a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="50" height="50"/> </a>
    <a href="https://www.w3.org/html/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="50" height="50"/> </a>
