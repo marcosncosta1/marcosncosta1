@@ -10,12 +10,14 @@ _"Success in not final, failure is not fatal: It is the courage to continue that
   <a href="https://www.python.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> 
   <a href="https://numpy.org/" target="_blank"> <img src="https://numpy.org/images/logo.svg" alt="mssql" width="40" height="40"/> </a>
   <a href="https://matplotlib.org/" target="_blank"> <img src="https://matplotlib.org/_static/images/documentation.png" alt="mssql" width="40" height="40"/> </a>
+    <a href="https://www.tensorflow.org/" target="_blank"> <img src="https://www.gstatic.com/devrel-devsite/prod/vb4911e76f75cbf10455736b1097dbb3769b606e3b49cb0474e4669a8e63a54e6/tensorflow/images/lockup.svg" alt="xd" width="40" height="40"/> </a>
+    <a href="https://courses.nvidia.com/courses/course-v1:DLI+S-FX-01+V1/" target="_blank"> <img src="https://courses.nvidia.com/wp-content/themes/ibl-nvidia-wp-theme/inc/images/nvidia_logo.svg" alt="xd" width="40" height="40"/> </a>
   <a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a>
    <a href="https://www.w3.org/html/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a>
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a>
   
   
-  <a href="https://www.adobe.com/products/xd.html" target="_blank"> <img src="https://cdn.worldvectorlogo.com/logos/adobe-xd.svg" alt="xd" width="40" height="40"/> </a> </p>
+ </p>
 
 
 ![Marcos' GitHub stats](https://github-readme-stats.vercel.app/api?username=MCDF31&show_icons=true&theme=radical)
