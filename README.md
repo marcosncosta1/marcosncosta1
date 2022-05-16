@@ -6,7 +6,7 @@
 
 ## Hi there 👋, I'm Marcos Costa
 
-As a former professional alpinist I am used to performing under pressure and finding solutions the hard and complex challenges. I am currently an aspiring software engineer who is passionate about learning software solutions to solving real world problems. I strive to learn and improve daily building on what I have learned in the past. 
+As a former professional alpinist I am used to performing under pressure and finding solutions to hard and complex challenges. I am currently an aspiring software engineer who is passionate about learning software solutions to solving real world problems. I strive to learn and improve daily building on what I have learned in the past. 
 
 _"Success in not final, failure is not fatal: It is the courage to continue that counts"_ -Winston Churchill
 
