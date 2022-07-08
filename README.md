@@ -18,7 +18,7 @@ _"Success in not final, failure is not fatal: It is the courage to continue that
   <a href="https://matplotlib.org/" target="_blank"> <img src="https://matplotlib.org/_static/images/documentation.png" alt="mssql" width="50" height="50"/> </a>
     <a href="https://www.tensorflow.org/" target="_blank"> <img src="https://www.gstatic.com/devrel-devsite/prod/vb4911e76f75cbf10455736b1097dbb3769b606e3b49cb0474e4669a8e63a54e6/tensorflow/images/lockup.svg" alt="xd" width="50" height="50"/> </a>
   <a href="https://jupyter.org/" target="_blank"> <img src="https://jupyter.org/assets/homepage/main-logo.svg" alt="xd" width="50" height="50"/> </a>
-  <a href="https://pandas.pydata.org/" target="_blank"> <img src="https://pandas.pydata.org/static/img/pandas_white.svg" alt="xd" width="50" height="50"/> </a>
+  <a href="https://pandas.pydata.org/" target="_blank"> <img src="[https://pandas.pydata.org/static/img/pandas_white.svg](https://pandas.pydata.org/)" alt="xd" width="50" height="50"/> </a>
   <a href="https://www.mysql.com" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/8/87/Sql_data_base_with_logo.png" alt="xd" width="50" height="40"/> </a>
   <a href="https://streamlit.io/" target="_blank"> <img src="https://docs.streamlit.io/logo.svg" alt="xd" width="50" height="50"/> </a>
   <a href="https://courses.nvidia.com/courses/course-v1:DLI+S-FX-01+V1/" target="_blank"> <img src="https://courses.nvidia.com/wp-content/themes/ibl-nvidia-wp-theme/inc/images/nvidia_logo.svg" alt="xd" width="50" height="50"/> </a>
