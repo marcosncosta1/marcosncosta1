@@ -14,6 +14,7 @@ _"Success in not final, failure is not fatal: It is the courage to continue that
 
 <p align="left"> 
   <a href="https://www.python.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="50" height="50"/> </a> 
+  <a href="https://www.java.com/en/" target="_blank"> <img src="<a title="java.com" href="/en/" data-bind="attr: { href: SCSRenderAPI.getPageLinkUrl(SCS.navigationRoot).substring(0,SCSRenderAPI.getPageLinkUrl(SCS.navigationRoot).lastIndexOf('/')+1) }"></a>" alt="java" width="50" height="50"/> </a>
   <a href="https://numpy.org/" target="_blank"> <img src="https://numpy.org/images/logo.svg" alt="mssql" width="50" height="50"/> </a>
   <a href="https://matplotlib.org/" target="_blank"> <img src="https://matplotlib.org/_static/images/documentation.png" alt="mssql" width="50" height="50"/> </a>
     <a href="https://www.tensorflow.org/" target="_blank"> <img src="https://www.gstatic.com/devrel-devsite/prod/vb4911e76f75cbf10455736b1097dbb3769b606e3b49cb0474e4669a8e63a54e6/tensorflow/images/lockup.svg" alt="xd" width="50" height="50"/> </a>
