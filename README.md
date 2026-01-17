@@ -13,42 +13,18 @@ _"Success in not final, failure is not fatal: It is the courage to continue that
 ### Languages and Tools:
 
 <div style="display: flex; gap: 10px; flex-wrap: wrap;">
-  <a href="https://www.python.org" target="_blank" style="text-decoration: none !important; border: none !important; outline: none !important; box-shadow: none !important;">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="python" width="50" height="50" style="border: none !important; outline: none !important; box-shadow: none !important; vertical-align: middle;"/>
-  </a> 
-  <a href="https://www.java.com/en/" target="_blank" style="text-decoration: none !important; border: none !important; outline: none !important; box-shadow: none !important;">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" alt="java" width="50" height="50" style="border: none !important; outline: none !important; box-shadow: none !important; vertical-align: middle;"/>
-  </a>
-  <a href="https://numpy.org/" target="_blank" style="text-decoration: none !important; border: none !important; outline: none !important; box-shadow: none !important;">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" alt="numpy" width="50" height="50" style="border: none !important; outline: none !important; box-shadow: none !important; vertical-align: middle;"/>
-  </a>
-  <a href="https://matplotlib.org/" target="_blank" style="text-decoration: none !important; border: none !important; outline: none !important; box-shadow: none !important;">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matplotlib/matplotlib-original.svg" alt="matplotlib" width="50" height="50" style="border: none !important; outline: none !important; box-shadow: none !important; vertical-align: middle;"/>
-  </a>
-  <a href="https://www.tensorflow.org/" target="_blank" style="text-decoration: none !important; border: none !important; outline: none !important; box-shadow: none !important;">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" alt="tensorflow" width="50" height="50" style="border: none !important; outline: none !important; box-shadow: none !important; vertical-align: middle;"/>
-  </a>
-  <a href="https://jupyter.org/" target="_blank" style="text-decoration: none !important; border: none !important; outline: none !important; box-shadow: none !important;">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" alt="jupyter" width="50" height="50" style="border: none !important; outline: none !important; box-shadow: none !important; vertical-align: middle;"/>
-  </a>
-  <a href="https://pandas.pydata.org/" target="_blank" style="text-decoration: none !important; border: none !important; outline: none !important; box-shadow: none !important;">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" alt="pandas" width="50" height="50" style="border: none !important; outline: none !important; box-shadow: none !important; vertical-align: middle;"/>
-  </a>
-  <a href="https://www.mysql.com" target="_blank" style="text-decoration: none !important; border: none !important; outline: none !important; box-shadow: none !important;">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" alt="mysql" width="50" height="50" style="border: none !important; outline: none !important; box-shadow: none !important; vertical-align: middle;"/>
-  </a>
-  <a href="https://streamlit.io/" target="_blank" style="text-decoration: none !important; border: none !important; outline: none !important; box-shadow: none !important;">
-    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/streamlit.svg" alt="streamlit" width="50" height="50" style="border: none !important; outline: none !important; box-shadow: none !important; vertical-align: middle;"/>
-  </a>
-  <a href="https://www.w3schools.com/css/" target="_blank" style="text-decoration: none !important; border: none !important; outline: none !important; box-shadow: none !important;">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original-wordmark.svg" alt="css3" width="50" height="50" style="border: none !important; outline: none !important; box-shadow: none !important; vertical-align: middle;"/>
-  </a>
-  <a href="https://www.w3.org/html/" target="_blank" style="text-decoration: none !important; border: none !important; outline: none !important; box-shadow: none !important;">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg" alt="html5" width="50" height="50" style="border: none !important; outline: none !important; box-shadow: none !important; vertical-align: middle;"/>
-  </a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" style="text-decoration: none !important; border: none !important; outline: none !important; box-shadow: none !important;">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="javascript" width="50" height="50" style="border: none !important; outline: none !important; box-shadow: none !important; vertical-align: middle;"/>
-  </a>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="python" width="50" height="50"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" alt="java" width="50" height="50"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" alt="numpy" width="50" height="50"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matplotlib/matplotlib-original.svg" alt="matplotlib" width="50" height="50"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" alt="tensorflow" width="50" height="50"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" alt="jupyter" width="50" height="50"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" alt="pandas" width="50" height="50"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" alt="mysql" width="50" height="50"/>
+  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/streamlit.svg" alt="streamlit" width="50" height="50"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original-wordmark.svg" alt="css3" width="50" height="50"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg" alt="html5" width="50" height="50"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="javascript" width="50" height="50"/>
 </div>
 
 ---
