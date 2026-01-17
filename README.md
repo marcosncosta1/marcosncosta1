@@ -13,45 +13,45 @@ _"Success in not final, failure is not fatal: It is the courage to continue that
 ### Languages and Tools:
 
 <p align="left"> 
-  <a href="https://www.python.org" target="_blank" style="text-decoration: none; display: inline-block;">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="python" width="50" height="50"/>
-  </a> 
-  <a href="https://www.java.com/en/" target="_blank" style="text-decoration: none; display: inline-block;">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" alt="java" width="50" height="50"/>
+  <a href="https://www.python.org" target="_blank" style="text-decoration: none; border: none;">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="python" width="50" height="50" style="vertical-align: middle; border: none;"/>
   </a>
-  <a href="https://numpy.org/" target="_blank" style="text-decoration: none; display: inline-block;">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" alt="numpy" width="50" height="50"/>
+  <a href="https://www.java.com/en/" target="_blank" style="text-decoration: none; border: none;">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" alt="java" width="50" height="50" style="vertical-align: middle; border: none;"/>
   </a>
-  <a href="https://matplotlib.org/" target="_blank" style="text-decoration: none; display: inline-block;">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matplotlib/matplotlib-original.svg" alt="matplotlib" width="50" height="50"/>
+  <a href="https://numpy.org/" target="_blank" style="text-decoration: none; border: none;">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" alt="numpy" width="50" height="50" style="vertical-align: middle; border: none;"/>
   </a>
-  <a href="https://www.tensorflow.org/" target="_blank" style="text-decoration: none; display: inline-block;">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" alt="tensorflow" width="50" height="50"/>
+  <a href="https://matplotlib.org/" target="_blank" style="text-decoration: none; border: none;">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matplotlib/matplotlib-original.svg" alt="matplotlib" width="50" height="50" style="vertical-align: middle; border: none;"/>
   </a>
-  <a href="https://jupyter.org/" target="_blank" style="text-decoration: none; display: inline-block;">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" alt="jupyter" width="50" height="50"/>
+  <a href="https://www.tensorflow.org/" target="_blank" style="text-decoration: none; border: none;">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" alt="tensorflow" width="50" height="50" style="vertical-align: middle; border: none;"/>
   </a>
-  <a href="https://pandas.pydata.org/" target="_blank" style="text-decoration: none; display: inline-block;">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" alt="pandas" width="50" height="50"/>
+  <a href="https://jupyter.org/" target="_blank" style="text-decoration: none; border: none;">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" alt="jupyter" width="50" height="50" style="vertical-align: middle; border: none;"/>
   </a>
-  <a href="https://www.mysql.com" target="_blank" style="text-decoration: none; display: inline-block;">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" alt="mysql" width="50" height="50"/>
+  <a href="https://pandas.pydata.org/" target="_blank" style="text-decoration: none; border: none;">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" alt="pandas" width="50" height="50" style="vertical-align: middle; border: none;"/>
   </a>
-  <a href="https://streamlit.io/" target="_blank" style="text-decoration: none; display: inline-block;">
-    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/streamlit.svg" alt="streamlit" width="50" height="50"/>
+  <a href="https://www.mysql.com" target="_blank" style="text-decoration: none; border: none;">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" alt="mysql" width="50" height="50" style="vertical-align: middle; border: none;"/>
   </a>
-  <a href="https://www.w3schools.com/css/" target="_blank" style="text-decoration: none; display: inline-block;">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original-wordmark.svg" alt="css3" width="50" height="50"/>
+  <a href="https://streamlit.io/" target="_blank" style="text-decoration: none; border: none;">
+    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/streamlit.svg" alt="streamlit" width="50" height="50" style="vertical-align: middle; border: none;"/>
   </a>
-  <a href="https://www.w3.org/html/" target="_blank" style="text-decoration: none; display: inline-block;">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg" alt="html5" width="50" height="50"/>
+  <a href="https://www.w3schools.com/css/" target="_blank" style="text-decoration: none; border: none;">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original-wordmark.svg" alt="css3" width="50" height="50" style="vertical-align: middle; border: none;"/>
   </a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" style="text-decoration: none; display: inline-block;">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="javascript" width="50" height="50"/>
+  <a href="https://www.w3.org/html/" target="_blank" style="text-decoration: none; border: none;">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg" alt="html5" width="50" height="50" style="vertical-align: middle; border: none;"/>
+  </a>
+  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" style="text-decoration: none; border: none;">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="javascript" width="50" height="50" style="vertical-align: middle; border: none;"/>
   </a>
 </p>
 
-![Marcos' GitHub stats](https://github-readme-stats.vercel.app/api?username=marcosncosta1&show_icons=true&theme=radical)
+[![Marcos' GitHub stats](https://github-readme-stats.vercel.app/api?username=marcosncosta1&show_icons=true&theme=radical&hide_border=true)](https://github.com/marcosncosta1)
 
 - 👯 I’m looking to collaborate on any tech start up idea related to software solutions. 
 - 🤔 I’m looking to get involved with the tech industry in Switzerland.
