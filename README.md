@@ -52,7 +52,7 @@ _"Success in not final, failure is not fatal: It is the courage to continue that
 </p>
 
 
-![Marcos' GitHub stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=marcosncosta1&show_icons=true&theme=radical)
+![Marcos' GitHub stats](https://github-readme-stats.vercel.app/api?username=marcosncosta1&show_icons=true&theme=radical&v=1)
 
 - 👯 I’m looking to collaborate on any tech start up idea related to software solutions. 
 - 🤔 I’m looking to get involved with the tech industry in Switzerland.
