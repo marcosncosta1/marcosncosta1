@@ -2,8 +2,6 @@
 
 <img src="https://omegafragger.github.io/post/focal-loss/featured.jpg" alt="drawing" width="1080" height="300"/> 
 
-
-
 ## Hi there 👋, I'm Marcos Costa
 
 As a former professional alpinist I am used to performing under pressure and finding solutions to hard and complex challenges. I am passionate about learning software solutions to solving real world problems. I strive to learn and improve daily building on what I have learned in the past. 
@@ -12,7 +10,7 @@ _"Success in not final, failure is not fatal: It is the courage to continue that
 
 ### Languages and Tools:
 
-<div style="display: flex; gap: 10px; flex-wrap: wrap;">
+<p align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="python" width="50" height="50"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" alt="java" width="50" height="50"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" alt="numpy" width="50" height="50"/>
@@ -25,7 +23,7 @@ _"Success in not final, failure is not fatal: It is the courage to continue that
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original-wordmark.svg" alt="css3" width="50" height="50"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg" alt="html5" width="50" height="50"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="javascript" width="50" height="50"/>
-</div>
+</p>
 
 ---
 
@@ -35,6 +33,7 @@ _"Success in not final, failure is not fatal: It is the courage to continue that
 - 👯 I’m looking to collaborate on any tech start up idea related to software solutions. 
 - 🤔 I’m looking to get involved with the tech industry in Switzerland.
 - 💬 Ask me about anything! 
+
 
 - ⚡ Fun fact: Mount Everest (The highest mountain in the world) was first climbed in May 29, 1953. Weather forecast models at that time were probably unreliable and did not help in the ascent. 
 
