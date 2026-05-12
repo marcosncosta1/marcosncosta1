@@ -1,4 +1,4 @@
-<!--  ![image](https://sukutechnologies.com/wp-content/uploads/2020/05/software-solution-banner.jpg) -->
+<img src="https://omegafragger.github.io/post/focal-loss/featured.jpg" alt="drawing" width="100%" height="300"/><!--  ![image](https://sukutechnologies.com/wp-content/uploads/2020/05/software-solution-banner.jpg) -->
 
 ## Hi there 👋, I'm Marcos Costa
 
