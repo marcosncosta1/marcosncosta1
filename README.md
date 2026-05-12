@@ -1,8 +1,5 @@
 <!--  ![image](https://sukutechnologies.com/wp-content/uploads/2020/05/software-solution-banner.jpg) -->
 
-Good call — a borderless table is a reliable workaround. GitHub's markdown renderer handles <table> cells as inline-block, so this forces horizontal layout no matter what:
-markdown<img src="https://omegafragger.github.io/post/focal-loss/featured.jpg" alt="drawing" width="100%" height="300"/>
-
 ## Hi there 👋, I'm Marcos Costa
 
 As a former professional alpinist I am used to performing under pressure and finding solutions to hard and complex challenges. I am passionate about learning software solutions to solving real world problems. I strive to learn and improve daily building on what I have learned in the past.
